@@ -1,1 +1,1 @@
-This is python file for log.
+This is python file for log.q!
